@@ -1,13 +1,11 @@
 # Green AI Practitioner - Committee Briefing
 
-> **PURPOSE** — This briefing covers the core proposal and the first three decisions we need to land. The briefing is all you need to get started. The companion documents are there when you're ready to go deeper.
-
-—
+> **Purpose:** This briefing covers the core proposal and the first three decisions we need to land. The briefing is all you need to get started. The companion documents are there when you're ready to go deeper.
 
 ## Why You're Reading This
-Ahead of our meeting next week, I'm sharing documents we've produced around a proposal I'm hoping we can dig into together. We've discussed developing the Green AI Practitioner course before — these documents represent our formal proposal for how we build it.
+To get us started on development of the Green AI Practitioner course, I'm sharing documents based on our recent and previous discussions in regards to the course.
 
-The full proposal lives across three companion documents — the Course Initiation, the Course Outline, and the Content Audit. This briefing is the short version. Read it before the meeting. Bring questions. We have an hour and three decisions to land.
+The full proposal lives across three companion documents — the Course Initiation, the Course Outline, and the Content Audit. This briefing is the short version. Read it first. Bring questions.
 
 ## The Problem We're Solving
 
@@ -19,7 +17,7 @@ That's the gap this course closes.
 
 ## What We're Proposing
 
-A course called the Green AI Practitioner. It has two layers:
+A course called the **Green AI Practitioner**. It has two layers:
 
 ### Layer 1: Foundation module (mandatory, all learners)
 
@@ -32,8 +30,6 @@ After the Foundation, learners choose the module for their role. We're initially
 Each module is made up of submodules — short, completable video units of 3–5 minutes, each with one learning objective and a quiz. Submodules are built from Knowledge Units: structured, citable content artifacts that are the source of truth for both the video scripts and the AI rulesets we publish alongside the course.
 
 > **BUILT FOR HUMANS AND AI** — This course is targeted at human learners today — but we're designing it with the near future in mind. AI coding assistants, agentic tools, and AI pair programmers are already embedded in how software gets built. Within the lifespan of this course, AI systems will be as important an audience as the humans we're building for now. We're structuring every piece of content as a Knowledge Unit first — a precise, citable record of one principle or decision. That Knowledge Unit gets rendered as a video script for human learners today, and as a structured ruleset that AI systems can consume directly tomorrow. One knowledge base. Multiple audiences. Built to last.
-
-—
 
 ## What Ships First
 
@@ -59,7 +55,7 @@ The full nine-phase authorship flow is in the Course Initiation document if you 
 
 ## The Three Decisions
 
-These are the decisions that need to land in our next meeting. Everything else — submodule scope, specific Knowledge Units, timeline — follows from these. We've done the thinking. We're asking for approval.
+These are the decisions that need to be taken first. Everything else — module scope, specific Knowledge Units, timeline — follows from these.
 
 ### Decision 1: Course Structure
 
@@ -87,10 +83,8 @@ These are the decisions that need to land in our next meeting. Everything else �
 
 ## The Companion Documents
 
-If you want to go deeper before the meeting, three documents have the full detail:
+If you want to go deeper, three documents have the full detail:
 
 - **Course Initiation** — the full proposal. Problem statement, course architecture, authorship flow, persona prioritisation rationale, Knowledge Unit schema, timeline, and all 14 decisions the committee will need to make over the life of this project.
 - **Course Outline** — the one-page description of the course: title, audience, learning outcomes, structure, success measure. This will become the public-facing description once approved.
 - **Content Audit** — the living document tracking what source material exists, what it covers, and where the gaps are that need SME input before we can write content.
-
-*You don't need to read them before the meeting. This briefing covers what matters for the decisions. The companion documents are there when you're ready to go deeper.*

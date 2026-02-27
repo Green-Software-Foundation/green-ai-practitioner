@@ -1,21 +1,20 @@
-# Green AI Practitioner: Course Outline
+# Green AI Practitioner: Course Outline [DRAFT]
 
-#### Green Software Foundation · Green AI Committee
-*Phase 2 Deliverable — For Committee Approval*
+> ⚠️ **Approval required:** Approve this course outline as the stable, public-facing description of the Green AI Practitioner course.
 
-> **PURPOSE**: This outline is the shared reference point for all course content decisions. It should be stable once approved — if it needs to change, that signals the course scope or purpose has changed. Approve this before module work begins.
+> ℹ️ **Purpose:** This outline is the shared reference point for all course content decisions. It should be stable once approved — if it needs to change, that signals the course scope or purpose has changed. Approve this before module work begins.
 
 ## Tagline
 
-AI has an environmental cost. This course puts the levers in your hands.
+"AI has an environmental cost. This course puts the levers in your hands."
 
 ## Course Type
 
-Type 2: Practitioner (Implementation) — grounded in GSF standards, designed for the practical decisions practitioners make every day.
+Practitioner (Implementation) — grounded in GSF standards, designed for the practical decisions practitioners make every day.
 
 ## Target Audience
 
-Technical practitioners in AI consumer organisations who make decisions about how AI is built and integrated. The course starts with Application Developers and expands to Infrastructure & Operations Engineers, ML/AI Engineers, and Architects/System Designers.
+Technical practitioners in AI consumer organisations who make decisions about how AI is built and integrated. The course starts with Application Developers and expands to Infrastructure & Operations Engineers, ML/AI Engineers, and Architects/System Designers and other personas.
 
 ## Prerequisites
 
@@ -34,16 +33,15 @@ On completing the Foundation module and a persona module, learners will be able 
 
 1. Explain what Green AI means — and what it does not mean — using the GSF definition
 2. Describe the three-pillar environmental measurement framework (carbon, energy, water) and why it matters for software practitioners
-3. Apply the SCI for AI specification to calculate and interpret the environmental impact of the AI systems they build
-4. Make concrete, evidence-based decisions in their role that measurably reduce the environmental impact of AI
-5. Identify which Green AI Patterns apply to their decisions and how to implement them
+3. Make concrete, evidence-based decisions in their role that measurably reduce the environmental impact of AI
+4. Identify which Green AI Patterns apply to their decisions and how to implement them
 
 ## Course Structure
 
 ### Layer 1: Foundation module (mandatory for all learners)
 
 - Introduction to Green AI
-- ~5–8 minutes · One submodule · Prerequisite for all persona modules
+- Prerequisite for all persona modules
 
 ### Layer 2: Persona modules (self-selected by role after completing the Foundation)
 
@@ -76,6 +74,3 @@ A learner who completes the Foundation module and their persona module can make 
 ## v1 MVP Scope
 
 Foundation module + Application Developer module, with a small number of submodules — one or more, to be agreed by the committee. Subsequent submodules and modules published iteratively as Knowledge Units are authored and approved.
-
-
-> ⚠️ **Committee approval required:** Approve this course outline as the stable, public-facing description of the Green AI Practitioner course. Amendments at this stage are low-cost — amendments after module work begins are expensive.
