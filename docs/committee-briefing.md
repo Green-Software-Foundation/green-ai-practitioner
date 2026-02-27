@@ -1,21 +1,13 @@
-# Green AI Practitioner — Committee Briefing
+# Green AI Practitioner - Committee Briefing
 
-#### Green Software Foundation · Green AI Committee
-*For review ahead of the next GAIC meeting*
-
-—
-
-> **PURPOSE** — This briefing covers the core proposal and the three decisions we need to land in our next meeting. The briefing is all you need before the meeting. The companion documents are there when you're ready to go deeper.
+> **PURPOSE** — This briefing covers the core proposal and the first three decisions we need to land. The briefing is all you need to get started. The companion documents are there when you're ready to go deeper.
 
 —
 
 ## Why You're Reading This
-
 Ahead of our meeting next week, I'm sharing documents we've produced around a proposal I'm hoping we can dig into together. We've discussed developing the Green AI Practitioner course before — these documents represent our formal proposal for how we build it.
 
 The full proposal lives across three companion documents — the Course Initiation, the Course Outline, and the Content Audit. This briefing is the short version. Read it before the meeting. Bring questions. We have an hour and three decisions to land.
-
-—
 
 ## The Problem We're Solving
 
@@ -25,17 +17,15 @@ The SCI for AI specification was ratified in December 2025. It gives us the meas
 
 That's the gap this course closes.
 
-—
-
 ## What We're Proposing
 
 A course called the Green AI Practitioner. It has two layers:
 
-#### Layer 1 — Foundation module (mandatory, all learners)
+### Layer 1: Foundation module (mandatory, all learners)
 
-Every learner starts here. It covers what Green AI is, the three-pillar measurement framework (carbon, energy, water), and why carbon has the ratified spec today. Short — one submodule, around 5–8 minutes.
+Every learner starts here. It covers what Green AI is, the three-pillar measurement framework (carbon, energy, water), and why carbon has the ratified spec today.
 
-#### Layer 2 — Persona modules (self-selected by role)
+### Layer 2: Persona modules (self-selected by role)
 
 After the Foundation, learners choose the module for their role. We're initially proposing modules for: Application Developer, Infrastructure & Operations, ML/AI Engineer, and Architect/System Designer. This is the starting set — as the course matures and the community grows, we expect the range of persona modules to expand well beyond these. Each module goes deep on the decisions that specific role actually makes, grounded in the SCI for AI spec.
 
@@ -53,8 +43,6 @@ We're proposing Application Developer first because it's where the impact is mos
 
 The course is designed so that energy and water submodules slot into the existing structure once those specs are ratified — no rebuild required.
 
-—
-
 ## How It Gets Built
 
 This is a volunteer-led effort. The authorship model is designed around that reality.
@@ -69,21 +57,19 @@ The critical gate: no rendering begins until the Knowledge Units are SME-approve
 
 The full nine-phase authorship flow is in the Course Initiation document if you want the detail.
 
-—
-
 ## The Three Decisions
 
 These are the decisions that need to land in our next meeting. Everything else — submodule scope, specific Knowledge Units, timeline — follows from these. We've done the thinking. We're asking for approval.
 
-### Decision 1 — Course Structure
+### Decision 1: Course Structure
 
-#### Do we approve the two-layer model — Foundation module plus persona modules — as the architecture for the Green AI Practitioner course?
+#### Do we approve the two-layer model (Foundation module plus persona modules) as the architecture for the Green AI Practitioner course?
 
 - ▸ Approve the two-layer structure as proposed
 - ▸ Approve with modifications *(please specify)*
 - ▸ Request further discussion before deciding
 
-### Decision 2 — Persona Prioritisation
+### Decision 2: Persona Prioritisation
 
 #### Do we confirm Application Developer as the first persona module to build, ahead of Infrastructure & Operations, ML/AI Engineer, and Architect/System Designer?
 
@@ -91,15 +77,13 @@ These are the decisions that need to land in our next meeting. Everything else �
 - ▸ Propose a different priority order *(please specify)*
 - ▸ Request further discussion before deciding
 
-### Decision 3 — Authorship Model
+### Decision 3: Authorship Model
 
-#### Do we approve the Knowledge Unit authorship model — humans author and SME-approve each Knowledge Unit, then Claude derives the rendered outputs (video script and AI ruleset) from those approved artifacts?
+#### Do we approve the Knowledge Unit authorship model? Humans author and SME-approve each Knowledge Unit; Claude then derives the rendered outputs (video script and AI ruleset) from those approved artifacts.
 
 - ▸ Approve the Knowledge Unit model as proposed
 - ▸ Approve with modifications *(please specify)*
 - ▸ Request further discussion before deciding
-
-—
 
 ## The Companion Documents
 

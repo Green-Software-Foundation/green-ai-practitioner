@@ -1,4 +1,4 @@
-Green Software Foundation · Green AI Committee
+# Green Software Foundation - Green AI Committee
 
 #### Green AI Practitioner
 
@@ -32,7 +32,7 @@ Every claim in every Knowledge Unit must be traceable to one of the following th
 
   **GSF Green Software Patterns**   Existing pattern library applicable to AI inference contexts; patterns catalogue to be extended with SCI for AI-linked entries                                                                                                                *✓ Existing — to be extended alongside course development*
 
-### 2.2 SCI for AI Spec — Directly Usable Content
+### 2.2 SCI for AI Spec: Directly Usable Content
 
 The following elements from the SCI for AI specification are directly usable as Knowledge Unit source material without additional SME input:
 

@@ -1,16 +1,10 @@
-**GREEN SOFTWARE FOUNDATION**
-
-# Green AI Practitioner
+# Green AI Practitioner - Course Initiation Document
 
 A Course for Practitioners Building AI Systems
 
-**COURSE INITIATION DOCUMENT**
-
-*For review and approval by the Green AI Committee*
-
 **Document Control**
 
-  **Status**             DRAFT — For Committee Review
+  **Status**             DRAFT - For Committee Review
 
   **Owner**              Green AI Committee (GAIC)
 
@@ -32,13 +26,17 @@ This is a co-creation document. It is not a final course outline. The committee 
 
 AI's environmental impact is growing rapidly. Data centre emissions are predicted to rise from 180 Mt to 300 Mt by 2035 in the base case scenario, driven largely by AI workloads. Yet practitioners building AI-enabled systems today face a significant guidance gap:
 
-  **GAP 1**   *No clear, trustworthy guidance on which technical decisions materially change AI emissions. Not all decisions matter equally — practitioners need signal, not noise.*
+### Gap 1
+*No clear, trustworthy guidance on which technical decisions materially change AI emissions. Not all decisions matter equally — practitioners need signal, not noise.*
 
-  **GAP 2**   *No consistent way to connect measurement concepts to reduction actions. The SCI for AI specification provides a measurement framework, but practitioners lack a bridge to actionable change.*
+### Gap 2
+*No consistent way to connect measurement concepts to reduction actions. The SCI for AI specification provides a measurement framework, but practitioners lack a bridge to actionable change.*
 
-  **GAP 3**   *No practical patterns that survive vendor churn. Model capabilities, pricing, and APIs change constantly. Practitioners need decision frameworks, not tool-specific recipes that go stale.*
+### Gap 3
+*No practical patterns that survive vendor churn. Model capabilities, pricing, and APIs change constantly. Practitioners need decision frameworks, not tool-specific recipes that go stale.*
 
-The result: practitioners who want to build greener AI systems don't know where to start, and organisations that have committed to sustainability targets cannot translate those commitments into engineering decisions.
+### The result
+Practitioners who want to build greener AI systems don't know where to start, and organisations that have committed to sustainability targets cannot translate those commitments into engineering decisions.
 
 The Green AI Practitioner course closes this gap — in a way that is shippable, maintainable by a volunteer-led committee, and authoritative because it is grounded in GSF standards.
 
@@ -321,7 +319,7 @@ This document initiates Phase 1 (Initiation) and proposes the outputs of Phases 
 
   **MVP DEFINITION**   *The MVP is: the Foundation module and the first Application Developer carbon submodule live on the Movement Platform. Both pass through the full authorship flow — outline, Knowledge Units, human rendering, AI rendering, production, publication. Done when published with quiz assessment and structured ruleset.*
 
-### 7.3 Proposed MVP Submodules (Phases 3–5 outputs — for committee ratification)
+### 7.3 Proposed MVP Submodules (Phases 3–5 outputs, for committee approval)
 
 The following represents the proposed output of Phases 3, 4, and 5 for the MVP. The committee should confirm, amend, or reject each element.
 
