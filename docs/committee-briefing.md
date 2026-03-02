@@ -1,5 +1,7 @@
 # Committee Briefing
 
+2 March 2026
+
 **Purpose:** This briefing covers the core proposal and the first three decisions we need to land to start work on the Green AI Practitioner course. The briefing is all you need to get started. The companion documents are there when you're ready to go deeper.
 
 
